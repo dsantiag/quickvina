@@ -1,0 +1,1 @@
+This project aims at accelerating Autodock Vina, a program for protein-ligand docking. The main idea is to skip some of the local searches which is not promising in finding a better solution.
